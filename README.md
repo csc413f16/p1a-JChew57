@@ -1,8 +1,10 @@
-Name:
+Name: Jason Chew
 
-Compilation and Run Successful:
+Compilation and Run Successful: Yes
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: No
+Problem with unit test: After setup of JUnit test, the execution using that build specification yields an exit code 1
+ and an error that states "Class not found: 'rs.csc413f16p1a.ApplicationTest'Empty test suite."
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
